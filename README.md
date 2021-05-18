@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SebastianCanoRuiz
+- 👀 I’m interested in backend development and computer technologies in general
+- 🌱 I’m currently learning Springboot
