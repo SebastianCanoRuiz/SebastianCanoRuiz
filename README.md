@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @SebastianCanoRuiz
 - 👀 I’m interested in backend development and computer technologies in general
-- 🌱 I’m currently learning Springboot
+- 🌱 I’m currently learning Flutter Mobile
+- 👩🏻‍💻 I'm currently working with SpringBoot
